@@ -1,6 +1,3 @@
-Here's a README template for your *Healing Hands* hospital appointment booking website.
-
----
 
 # Healing Hands - Hospital Appointment Booking Website
 
